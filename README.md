@@ -1,1 +1,1 @@
-# odin-recipes 
+# odin-recipes This project served as a great review of HTML,links,organization,and git
